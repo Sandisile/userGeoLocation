@@ -4,7 +4,7 @@ import MapView from 'react-native-maps';
 class UserGeoLocation extends Component {
 
     //initials state with current position
-    state = {
+    state={
         currentPosition: 'unknown',
     }
 
